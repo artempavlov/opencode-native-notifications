@@ -1,0 +1,5 @@
+{
+  "name": "local-native-notifications",
+  "type": "module",
+  "exports": { ".": "./index.ts", "./tui": "./tui.ts" }
+}
